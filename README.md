@@ -1,7 +1,6 @@
 # simple-page
-Here is the link https://pranjli-github.github.io/simple-page/
+Here is the link to my website https://pranjli-github.github.io/simple-page/
 
-Okay thanks bye.
-<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTaWUyucliJQulVi5BSf5VgkWzk66S1H43MiGgxHvAyXE9yk10dUABiBlryxLffsNogyWa14zF-1LmJ/pubchart?oid=303453234&amp;format=interactive"></iframe>
+The chart below represents the number of year of data visualization experience for every occupation. This is done to understand the background of the people signing up for this online course on edX.
 
-<iframe src="https://public.tableau.com/views/CTSchoolDistrictsbyIncomeandGradeLevels2009-13/Sheet1?:showVizHome=no&:embed=true" width="90%" height="600"></iframe>
+<iframe width="662.2641509433962" height="409.5" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS0aiAbPkuYIhdkS8Vwg0gRc5tQxknTk-azadn0XNJvWlvVAnk3YEvxExht1OLk0v5qxO4p8j-XInyn/pubchart?oid=468026148&amp;format=interactive"></iframe>
